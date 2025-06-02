@@ -1,0 +1,7 @@
+[run]
+omit =
+    transcribe.py
+    tests/
+
+[report]
+fail_under = 100
